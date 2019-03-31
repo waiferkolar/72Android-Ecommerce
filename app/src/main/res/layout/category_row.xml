@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:text="TextView"
+        android:gravity="center"
+        android:textColor="#900"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:background="@drawable/category_round"
+        android:layout_margin="10dp"
+        android:textSize="25sp"
+        android:layout_weight="1"
+        android:id="@+id/categoryName"
+        app:fontFamily="@font/aclonica"/>

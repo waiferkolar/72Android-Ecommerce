@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BM-Commerce</string>
+    <string name="ads_text">The latest release of Android brings a host of new features, like stronger protections for
+        user privacy, new ways to engage users, better support for foldables, Vulkan extensions, and more!
+    </string>
+    <string name="cart_item">Cart Item</string>
+</resources>
